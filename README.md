@@ -1,2 +1,2 @@
 ## END TO END MACHINE LEARNING PROJECT
-CI/CD pipeline
+Created docker image of the project 
